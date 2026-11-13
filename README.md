@@ -1,5 +1,9 @@
-## Work in progress 👀
+## Hello 👀
 
-This page will soon be populated with more info :)
+I am a recent graduate of the M.Sc. in Language Science and Technology at Saarland University.
 
-In the meantime, you can check out my webpage: https://nursaltyn.github.io/
+I am excited about model interpretability and alignment with humans. My thesis combined both directions - I studied how task circuits in the models affect its alignment with the brain.🧠
+
+Currently, I am getting into the field of multi-agent systems and safety.
+
+Check out my webpage for more info: https://nursaltyn.github.io/
